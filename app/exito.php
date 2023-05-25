@@ -127,7 +127,7 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/jordana.jpg" alt="Jordana Perdoncini">
+										<img src="images/historias/pablo_gularte.jpg.jpg" alt="Pablo Gularte">
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
@@ -141,19 +141,20 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 								<!-- Image: End -->
 								<!-- Decription: Start -->
 								<div class="portfolio-desc">
-									<h3>Jordana Perdoncini</h3>
-									<span>Jornalismo</span>
+									<h3>Pablo Gularte</h3>
+									<span>ARGENTINA</span>
 								</div>
 								<!-- Description: Start -->
 							</div>
 							<!-- Grid Inner: End -->
 							<!-- Modal -->
+
                             <div class="modal1 mfp-hide" id="myModal1">
                                 <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
                                     <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
                                         
                                         <div class="fbox-content">
-                                            <span class="subtitle">O projeto Sonhando Alto mudou a minha vida e me permitiu realizar meu sonho de  estudar em uma faculdade adventista. Além disso, tive oportunidades de crescimento que ultrapassaram os bancos da faculdade; por meio do projeto construí experiências que levarei para toda a minha vida. </span>
+                                            <span class="subtitle">Sueña en Grande: el mejor nombre que le pudieron haber puesto a este proyecto. Jóvenes que dejan todo para pisar suelo desconocido en busca de un sueño: Ser profesionales para servir a Dios y al prójimo. Hoy puedo decir con orgullo que he sido un Sueña en Grande, he podido alcanzar mis anhelos académicos en el Instituto Superior Adventista de Misiones. Actualmente por trabajo como profesional en el SEHS Argentina, me siento feliz de  apoyar a más jóvenes a cumplir sus metas.</span>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
@@ -162,6 +163,7 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
                                 </div>
                             </div>
                             <!-- Fim Modal -->
+
 						</article>
 
 						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-formados">
@@ -169,12 +171,11 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/gilberto.jpg" alt="Gilberto Basílio">
+										<img src="images/historias/veronica_laura.jpg.jpg" alt="Veronica Laura">
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-											<a href="images/videos/gilberto.mp4" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="iframe"><i class="icon-line-play"></i></a>
-											<a href="#myModal_gilberto" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
+											<a href="#myModal_veronica" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
 										</div>
 										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
 									</div>
@@ -183,19 +184,19 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 								<!-- Image: End -->
 								<!-- Decription: Start -->
 								<div class="portfolio-desc">
-									<h3>Pr. Gilberto Basílio</h3>
-									<span>Teologia</span>
+									<h3>Veronica Laura</h3>
+									<span>BOLÍVIA</span>
 								</div>
 								<!-- Description: Start -->
 							</div>
 							<!-- Grid Inner: End -->
 							<!-- Modal -->
-                            <div class="modal1 mfp-hide" id="myModal_gilberto">
+                            <div class="modal1 mfp-hide" id="myModal_veronica">
                                 <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
                                     <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
                                         
                                         <div class="fbox-content">
-                                            <span class="subtitle">O projeto Sonhando Alto mudou a minha vida para sempre. Sonhando alto pra mim significa mudança de vida. Tive o privilégio de liderar o primeiro Sonhando Alto e pude ver vidas sendo transformadas.</span>
+                                            <span class="subtitle">Mi nombre el Veronica Laura, soy Lic. en Contaduria Publica un sueño hecho realidad que parecía imposible y todo fue gracias a Dios a través del Sueña en Grande el 2017, y ahora es tu momento!</span>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
@@ -211,7 +212,7 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/ryan.jpg" alt="Ryan Victor">
+										<img src="images/historias/paulina.jpg" alt="Paulina Zhunaul Carnet">
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
@@ -224,14 +225,31 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 								<!-- Image: End -->
 								<!-- Decription: Start -->
 								<div class="portfolio-desc">
-									<h3>Ryan Victor </h3>
-									<span>Odontologia</span>
+									<h3>Paulina Zhunaul Carnet </h3>
+									<span>ECUADOR</span>
 								</div>
 								<!-- Description: Start -->
 							</div>
 							<!-- Grid Inner: End -->
 							<!-- Modal -->
-                            
+                            <div class="modal1 mfp-hide" id="myModal_veronica">
+                                <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
+                                    <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
+                                        
+                                        <div class="fbox-content">
+                                            <span class="subtitle">Luego de terminar mi colegio, el 2011 postulé a la carrera de odontología en la universidad de Cuenca, el mismo año recibí un llamado a Colportar en Quevedo, este sería el inicio de una respuesta a una oración que realizaba de pequeña, estudiar en el extranjero.<br><br>
+Conocí bastantes lugares bonitos y algunos peligrosos, y es increíble como Dios me ha protegido. El 2015 he liderado una campaña de jóvenes. Con toda seguridad puedo decir que el colportaje me permitió conocer personas, madurar, me permitió desenvolverme, he llegado a personas que nunca hubiese llegado de otra manera, el 2016 pude terminar mi bachillerato y mi licenciatura en la Universidad Peruana Unión, actualmente trabajo como nutricionista en la clínica “Good Hope” en Lima-Perú. <br><br>
+Cualquier persona que decida Colportar habrá elegido el mejor camino para su vida, realmente esta experiencia no solamente te permite alcanzar tus sueños académicos y/o financieros, sino que, realmente podrás atesorar lo que más importa en esta vida, tu relación con Dios.<br><br>
+Soy Tania Paulina Zhunaula Guaman, yo colporté en Ecuador.<br>
+¡Ahora es el momento de Soñar en Grande!
+</span>
+                                        </div>
+                                    </div>
+                                    <div class="section center m-0" style="padding: 30px;">
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                    </div>
+                                </div>
+                            </div>
                             <!-- Fim Modal -->
 						</article>
 						
@@ -240,7 +258,7 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/tarcila.jpg" alt="Tarcila">
+										<img src="images/historias/jhoselin.jpg" alt="Jhoselin Cieza Hoyos ">
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
@@ -254,8 +272,8 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 								<!-- Image: End -->
 								<!-- Decription: Start -->
 								<div class="portfolio-desc">
-									<h3>Tarcila</h3>
-									<span>Psicologia</span>
+									<h3>Jhoselin Cieza Hoyos </h3>
+									<span>PERU</span>
 								</div>
 								<!-- Description: Start -->
 							</div>
@@ -266,7 +284,7 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
                                     <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
                                         
                                         <div class="fbox-content">
-                                            <span class="subtitle">Meu nome é Tarcila, eu sou psicóloga clínica, graduada no UNASP-SP, especialista em logoterapia e pós-graduada em psicologia organizacional. Grande parte das minhas conquistas eu devo a colportagem, de maneira especial ao projeto sonhando alto, que me deu oportunidade de me preparar melhor tanto no sentido de ter certeza do que eu gostaria de me tornar como profissional como de desenvolver melhor as habilidades necessárias para colportar nas férias e alcançar os alvos que eu precisava. O projeto Sonhando Alto é uma oportunidade ímpar de se preparar e se aperfeiçoar. </span>
+                                            <span class="subtitle">Mi experiencia en el colportaje me hizo depender de Dios, a colocarlo en primer lugar, es él la base del éxito... ¡Sé un colportor, sé un misionero! </span>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
@@ -285,12 +303,12 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/pedro_henrique.jpg" alt="Pedro Henrique">
+										<img src="images/historias/ainara.jpg" alt="Ainará Arriagada">
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
 											
-											<a href="#myModal_pedro" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
+											<a href="#myModal_ainara" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
 										</div>
 										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
 									</div>
@@ -299,21 +317,21 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 								<!-- Image: End -->
 								<!-- Decription: Start -->
 								<div class="portfolio-desc">
-									<h3>Pedro Henrique</h3>
-									<span>Fisioterapia</span>
+									<h3>Ainará Arriagada</h3>
+									<span>ARGENTINA</span>
 								</div>
 								<!-- Description: Start -->
 							</div>
 							<!-- Grid Inner: End -->
 							<!-- Modal -->
-                            <div class="modal1 mfp-hide" id="myModal_pedro">
+                            <div class="modal1 mfp-hide" id="myModal_ainara">
                                 <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
                                     <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
                                         
                                         <div class="fbox-content">
 										<h3>
 </h3>
-                                            <span class="subtitle">Tive a honra de participar em duas ocasiões do projeto Sonhando Alto. Vivi momentos nos quais aprendi, de fato, o que significa depender totalmente de Deus. Tal experiência me impulsionou para a realização do sonho profissional. </span>
+                                            <span class="subtitle">Cuando imaginaba que ya estaba definido mi futuro con planes personales, Dios me llamó a estudiar a la Universidad Adventista del Plata, acepté el desafío y deje que el Señor me guiará, fue así como a través del proyecto Sueña en Grande logre cumplir los propósitos de Dios para mi vida. Hoy amo servir con mi profesión a todo aquel que lo necesite. Dios hizo lo imposible, posible. Anímate a Soñar en Grande vos también. </span>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
@@ -329,12 +347,12 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/ademir_antunes.jpg" alt="Ademir Antunes">
+										<img src="images/historias/erika.jpg" alt="Erika Aucancela Carnet">
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
 											
-											<a href="#myModal_ademir" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
+											<a href="#myModal_erika" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
 										</div>
 										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
 									</div>
@@ -343,20 +361,25 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 								<!-- Image: End -->
 								<!-- Decription: Start -->
 								<div class="portfolio-desc">
-									<h3>Ademir Antunes</h3>
-									<span>Teologia</span>
+									<h3>Erika Aucancela Carnet</h3>
+									<span>ECUADOR</span>
 								</div>
 								<!-- Description: Start -->
 							</div>
 							<!-- Grid Inner: End -->
 							<!-- Modal -->
-                            <div class="modal1 mfp-hide" id="myModal_ademir">
+                            <div class="modal1 mfp-hide" id="myModal_erika">
                                 <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
                                     <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
                                         
                                         <div class="fbox-content">
 										<h3></h3>
-                                            <span class="subtitle">Participar do Sonhando alto foi fundamental no desenvolvimento das competências de liderança em minha vida.</span>
+                                            <span class="subtitle">Siempre anhelaba estudiar en una universidad adventista, por ello, luego de terminar mi colegio, gracias a la influencia de un familiar que colportó, el 2011 decidí formar parte de una campaña Sueña en Grande. Desde aquel día viví increíbles experiencias, he Colportado cuatro campañas y he liderado cinco.<br><br>
+Recuerdo las formas en la que Dios me sorprendía, a través de un milagro, en los resultados y respuestas ante las situaciones críticas, entonces aprendí a depender completamente de Dios, su obra me ayudó a desarrollar mis facultades físicas y mentales, aprendí a desenvolverme mejor con cualquier tipo de personas desde hogares más sencillos hasta grandes empresas, también fui bendecida con bonificaciones, no solo para pagar mis estudios, sino para pagar mis gastos de hospedaje y otros.<br><br>
+Soy graduada en la carrera de Nutrición Humana en la Universidad Peruana Unión, actualmente con mis 28 años de edad trabajo como nutricionista en la parte administrativa de un centro de rehabilitación para personas en adicciones y en un centro médico en Lima-Perú.<br><br>
+Soy Erika Magaly Aucancela, yo colporté en Ecuador.<br><br>
+¡Ahora es el momento de soñar en grande!
+</span>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
@@ -372,12 +395,12 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/carla.jpg" alt="Carla Naiza ">
+										<img src="images/historias/franco.jpg" alt="Franco Calfupan">
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
 											
-											<a href="#myModal_carla" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
+											<a href="#myModal_franco" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
 										</div>
 										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
 									</div>
@@ -386,19 +409,19 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 								<!-- Image: End -->
 								<!-- Decription: Start -->
 								<div class="portfolio-desc">
-									<h3>Carla Naiza</h3>
-									<span>Direito</span>
+									<h3>Franco Calfupan</h3>
+									<span>ARGENNTINA</span>
 								</div>
 								<!-- Description: Start -->
 							</div>
 							<!-- Grid Inner: End -->
 							<!-- Modal -->
-                            <div class="modal1 mfp-hide" id="myModal_carla">
+                            <div class="modal1 mfp-hide" id="myModal_franco">
                                 <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
                                     <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
                                         
                                         <div class="fbox-content">
-                                            <span class="subtitle">O projeto Sonhando Alto foi um divisor de águas na minha vida. Através desse projeto, tive condições financeiras para ingressar no curso de Direito no UNASP e realizar o meu sonho de ser uma advogada. Além disso, até hoje eu aplico na minha vida pessoal e profissional técnicas que aprendi no projeto.</span>
+                                            <span class="subtitle">"Dios tiene mil maneras de las cuales nada sabemos para proveernos lo necesario, si aceptamos el llamado; Cada verano durante mis 5 años de estudiante colporté en Argentina y Uruguay, dedicando el último a asistir. Entregué mis capacidades a Dios y me proveyó las energías y recursos económicos para cada año académico terminarlo en tiempo y forma. Fue sacrificado. En cada campaña: lloré, me enojé, pase calor, frio, tiempo lejos de casa pero, valió la pena ver y vivir en carne propia que el mismo Dios que estuvo con los héroes de la fe del pasado esta tan vivo y desando usarnos en el presente. Tengo la alegría de decir que tuve dos escuelas en simultáneo: la UAP y el Colportaje: "la escuela de la  vida".</span>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
@@ -414,13 +437,13 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/israel.jpg" alt="Israel Ferreira ">
+										<img src="images/historias/jennifer.jpg" alt="Jennifer Chávez">
 
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
 											
-											
+										<a href="#myModal_jennifer" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
 										</div>
 										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
 									</div>
@@ -429,14 +452,26 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 								<!-- Image: End -->
 								<!-- Decription: Start -->
 								<div class="portfolio-desc">
-									<h3>Israel Ferreira </h3>
-									<span></span>
+									<h3>Jennifer Chávez </h3>
+									<span>ARGENTINA</span>
 								</div>
 								<!-- Description: Start -->
 							</div>
 							<!-- Grid Inner: End -->
 							<!-- Modal -->
-                            
+                            <div class="modal1 mfp-hide" id="myModal_jennifer">
+                                <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
+                                    <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
+                                        
+                                        <div class="fbox-content">
+                                            <span class="subtitle">"Dios tiene mil maneras de las cuales nada sabemos para proveernos lo necesario, si aceptamos el llamado; Cada verano durante mis 5 años de estudiante colporté en Argentina y Uruguay, dedicando el último a asistir. Entregué mis capacidades a Dios y me proveyó las energías y recursos económicos para cada año académico terminarlo en tiempo y forma. Fue sacrificado. En cada campaña: lloré, me enojé, pase calor, frio, tiempo lejos de casa pero, valió la pena ver y vivir en carne propia que el mismo Dios que estuvo con los héroes de la fe del pasado esta tan vivo y desando usarnos en el presente. Tengo la alegría de decir que tuve dos escuelas en simultáneo: la UAP y el Colportaje: "la escuela de la  vida".</span>
+                                        </div>
+                                    </div>
+                                    <div class="section center m-0" style="padding: 30px;">
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                    </div>
+                                </div>
+                            </div>
                             <!-- Fim Modal -->
 						</article>
 
@@ -445,7 +480,7 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/Balbino.jpg" alt="Balbino">
+										<img src="images/historias/jhesica.jpg" alt="Jhesica Quispe">
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
@@ -459,8 +494,8 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 								<!-- Image: End -->
 								<!-- Decription: Start -->
 								<div class="portfolio-desc">
-									<h3>Balbino</h3>
-									<span>Psicologia</span>
+									<h3>Jhesica Quispe</h3>
+									<span>BOLIVIA</span>
 								</div>
 								<!-- Description: Start -->
 							</div>
@@ -471,51 +506,8 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
                                     <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
                                         
                                         <div class="fbox-content">
-										<h3>Balbino</h3>
-                                            <span class="subtitle">Participou do Projeto Sonhando Alto 2018.</span>
-                                        </div>
-                                    </div>
-                                    <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Fim Modal -->
-						</article>
-
-						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-formados">
-							<!-- Grid Inner: Start -->
-							<div class="grid-inner">
-								<!-- Image: Start -->
-								<div class="portfolio-image">
-										<img src="images/historias/karine.jpg" alt="Karine">
-									<!-- Overlay: Start -->
-									<div class="bg-overlay">
-										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-											
-											<a href="#myModal_karine" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
-										</div>
-										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-									</div>
-									<!-- Overlay: End -->
-								</div>
-								<!-- Image: End -->
-								<!-- Decription: Start -->
-								<div class="portfolio-desc">
-									<h3>Karine</h3>
-									<span>Jornalismo</span>
-								</div>
-								<!-- Description: Start -->
-							</div>
-							<!-- Grid Inner: End -->
-							<!-- Modal -->
-                            <div class="modal1 mfp-hide" id="myModal_karine">
-                                <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
-                                    <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
-                                        
-                                        <div class="fbox-content">
-										<h3>Karine</h3>
-                                            <span class="subtitle">Participou do Projeto Sonhando Alto 2011 e se formou em 2015.</span>
+									
+                                            <span class="subtitle">Soy Jhesica Quispe, hoy vivo mi sueño porque estoy en el último semestre de la carrera de Bioquimica y todo inicio en el proyecto sueña en grande el 2018 y ahora es tu momento. </span>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
@@ -531,12 +523,12 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/exdra.jpg" alt="Exdra">
+										<img src="images/historias/alex.jpg" alt="Alex Cambo Carnet">
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
 											
-											<a href="#myModal_exdra" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
+											<a href="#myModal_alex" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
 										</div>
 										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
 									</div>
@@ -545,20 +537,72 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 								<!-- Image: End -->
 								<!-- Decription: Start -->
 								<div class="portfolio-desc">
-									<h3>Exdra</h3>
-									<span>Psicologia</span>
+									<h3>Alex Cambo Carnet</h3>
+									<span>ECUADOR</span>
 								</div>
 								<!-- Description: Start -->
 							</div>
 							<!-- Grid Inner: End -->
 							<!-- Modal -->
-                            <div class="modal1 mfp-hide" id="myModal_exdra">
+                            <div class="modal1 mfp-hide" id="myModal_alex">
                                 <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
                                     <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
                                         
                                         <div class="fbox-content">
-										<h3>Exdra</h3>
-                                            <span class="subtitle">Vim de família humilde e sem condições de custear meus estudos. Conheci a colportagem por meio de um amigo e assim passei a me dedicar às vendas e consegui recursos para estudar. Atualmente estudo psicologia no Paraná. </span>
+                                            <span class="subtitle">Soy de Chillanes, perteneciente a la Provincia de Bolivar-Ecuador, me gusta mucho el tema de los negocios, desde mis 16 años he sido un emprendedor. Luego de terminar mi colegio me di la oportunidad de reflexionar sobre mi futuro, tendría que decidir entre viajar a Quito para trabajar o dedicar un tiempo para la obra de Dios, en mis planes no estaba estudiar, en oración pedí a Dios que me muestre una señal, y en esa misma semana, un pastor me invitó a participar en una campaña de Sueña en Grande. Es allí donde empieza mi sueño de ser un administrador de empresas.<br><br>
+El desarrollo espiritual que tuve en el colportaje marcó mi vida, además de ello, iba aprendiendo en el ámbito profesional, nunca he estado tan cerca de Dios como cuando colporté, nunca me sentí tan seguro de un futuro extraordinario como cuando empecé a depender de Dios. <br><br>
+Actualmente estudio el octavo ciclo de la carrera de Administración de Empresas en la UPeU, simultáneamente, dirijo un equipo que presta servicios de capacitaciones y asesoría técnica a emprendedores.<br><br>
+Si decides Colportar, créeme, te vas a dar la mejor oportunidad de crecimiento, ¡Ahora es el momento de Soñar en Grande!<br><br>
+Soy Alex Fabian Cambo Quinatoa, yo colporté en Ecuador.
+</span>
+                                        </div>
+                                    </div>
+                                    <div class="section center m-0" style="padding: 30px;">
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Modal -->
+						</article>
+
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-estudantes">
+							<!-- Grid Inner: Start -->
+							<div class="grid-inner">
+								<!-- Image: Start -->
+								<div class="portfolio-image">
+										<img src="images/historias/brayan.jpg" alt="Brayan Spin Carnet">
+									<!-- Overlay: Start -->
+									<div class="bg-overlay">
+										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+											
+											<a href="#myModal_brayan" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
+										</div>
+										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+									</div>
+									<!-- Overlay: End -->
+								</div>
+								<!-- Image: End -->
+								<!-- Decription: Start -->
+								<div class="portfolio-desc">
+									<h3>Brayan Spin Carnet</h3>
+									<span>ECUADOR</span>
+								</div>
+								<!-- Description: Start -->
+							</div>
+							<!-- Grid Inner: End -->
+							<!-- Modal -->
+                            <div class="modal1 mfp-hide" id="myModal_brayan">
+                                <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
+                                    <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
+                                        
+                                        <div class="fbox-content">
+                                            <span class="subtitle">Cuando estaba en el colegio, veía a mis amigos ir a universidades adventistas en el extranjero, eso me motivó a anhelar lo mismo, sabía que sería difícil, porque ninguno de mis hermanos mayores tenía estudios universitarios, a pesar de ello, en mi interior, me convencí de que era posible. <br><br>
+Cuando supe que a través del colportaje podía ayudar al avance del evangelio y a la vez poder cumplir mi sueño, acepté el desafío, y es así como di mis primeros pasos en este sagrado ministerio de las publicaciones. <br><br>
+Definitivamente el colportaje es una gran escuela, pues en la campaña tuve que aprender a convivir con diferentes caracteres, me enseñó a vivir en unidad y ser solidario con los demás, conocí diferentes lugares y tuve el privilegio de ayudar muchas personas a mejorar sus estilos de vida.  Después de todo lo vivido y aprendido en la campaña “Sueña en Grande”, logré obtener la tan anhelada bonificación, la cual me permitió iniciar mis estudios en Psicología en la Universidad Peruana Unión.<br><br>
+Hoy, quiero invitarte a vivir esta experiencia, debes decidir dar el primer paso y unirte a este gran proyecto, porque “Ahora es el momento de Soñar en Grande”. <br><br>
+¿Aceptas el desafío?<br><br>
+Soy Brayan Duverly Espin Camacho, yo colporté en Ecuador.
+ </span>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
@@ -574,7 +618,7 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/thacio.jpg" alt="Thacio Farias">
+										<img src="images/historias/agustin.jpg" alt="Agustín Fallini">
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
@@ -588,8 +632,8 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 								<!-- Image: End -->
 								<!-- Decription: Start -->
 								<div class="portfolio-desc">
-									<h3>Thacio Farias</h3>
-									<span>Engenharia Civil</span>
+									<h3>Agustín Fallini </h3>
+									<span>ARGENTINA</span>
 								</div>
 								<!-- Description: Start -->
 							</div>
@@ -600,8 +644,13 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
                                     <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
                                         
                                         <div class="fbox-content">
-										<h3>Thacio Farias</h3>
-                                            <span class="subtitle">Participou do Projeto Sonhando Alto 2013 e se formou em 2018.</span>
+                                            <span class="subtitle">Agustín Fallini se encuentra actualmente trabajando como presentador y productor del programa Vida y Salud en NT – Argentina en la Universidad Adventista del Plata. Estudió Comunicación Social y Teología (aunque esta última carrera aún sigue pendiente) en la UAP.
+Conoció la iglesia por un grupo pequeños de niños. Se bautizó a los 11 años y es el único adventista en su familia. <BR><BR>
+Inició una carrera universitaria en su ciudad natal; Paysandú, Uruguay. Pero decidió no continuar porque tenía clases el sábado. Había empezado a trabajar, pero no estaba completamente satisfecho. Ese sería un año bisagra en su vida.<BR><BR>
+El pastor Benjamín Contreras hizo un llamado en su iglesia a realizar el proyecto Sueña en Grande. Y él y otros dos jóvenes de su iglesia decidieron empezar a colportar en Montevideo.<BR><BR>
+En medio de la campaña decidió estudiar Comunicación Social. <BR><BR>
+Gracias a Dios logró bonificar y hoy se encuentra casado y en la etapa final de su carrera (defendiendo su tesis) y ya sirviendo a la Iglesia con su profesión.
+</span>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
@@ -617,12 +666,12 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/katiane.jpg" alt="Katiane Ferreira ">
+										<img src="images/historias/simmoney.jpg" alt="Simmoney Chavez">
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
 											
-											<a href="#myModal_katiane" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
+											<a href="#myModal_simmoney" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
 										</div>
 										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
 									</div>
@@ -631,20 +680,19 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 								<!-- Image: End -->
 								<!-- Decription: Start -->
 								<div class="portfolio-desc">
-									<h3>Katiane Ferreira</h3>
-									<span>Psicologia</span>
+									<h3>Simmoney Chavez</h3>
+									<span>BOLIVIA</span>
 								</div>
 								<!-- Description: Start -->
 							</div>
 							<!-- Grid Inner: End -->
 							<!-- Modal -->
-                            <div class="modal1 mfp-hide" id="myModal_katiane">
+                            <div class="modal1 mfp-hide" id="myModal_simmoney">
                                 <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
                                     <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
                                         
                                         <div class="fbox-content">
-										<h3>Katiane Ferreira</h3>
-                                            <span class="subtitle">Participou do Projeto Sonhando Alto 2017.</span>
+                                            <span class="subtitle">Soy Simmoney Chavez, forme parte de Sueña en Grande el 2020 durante la pandemia cuando todo parecía imposible Dios lo hizo posible a través del proyecto sueña en grande y hoy estoy estudiando la carrera</span>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
@@ -660,12 +708,12 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/Ilana.jpg" alt="Ilana">
+										<img src="images/historias/george.jpg" alt="George Luis Ticona Limachi">
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
 											
-											<a href="#myModal_ilana" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
+											<a href="#myModal_george" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
 										</div>
 										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
 									</div>
@@ -674,20 +722,19 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 								<!-- Image: End -->
 								<!-- Decription: Start -->
 								<div class="portfolio-desc">
-									<h3>Ilana Filgueira</h3>
-									<span>Pedagogia</span>
+									<h3>George Luis Ticona Limachi</h3>
+									<span>BOLIVIA</span>
 								</div>
 								<!-- Description: Start -->
 							</div>
 							<!-- Grid Inner: End -->
 							<!-- Modal -->
-                            <div class="modal1 mfp-hide" id="myModal_ilana">
+                            <div class="modal1 mfp-hide" id="myModal_george">
                                 <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
                                     <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
                                         
                                         <div class="fbox-content">
-										<h3>Ilana Filgueira</h3>
-                                            <span class="subtitle">Participou do Projeto Sonhando Alto 2012 e se formou em 2015. Meu intuito era conseguir uma bolsa de estudos para fazer uma faculdade. Logo me apaixonei por essa obra. Aprendi a me comunicar melhor, a importância de persistir, me relacionar melhor com as pessoas e tive uma experiência mais profunda com Deus. Hoje sou diretora de uma escola na cidade em que eu nasci. Sou agradecida por tudo que Deus me deu na colportagem.</span>
+                                            <span class="subtitle">Soy George Luis Ticona Limachi,  en el 2018 forme parte del proyecto sueña en grande, hoy agradezco a Dios por esa  oportunidad de presentarme el PROYECTO SUEÑA EN GRANDE porque gracias a este proyecto </span>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
@@ -698,12 +745,12 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
                             <!-- Fim Modal -->
 						</article>
 
-						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-formado">
+						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-estudantes">
 							<!-- Grid Inner: Start -->
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/Lucas.jpg" alt="Lucas">
+										<img src="images/historias/alejandro.jpg" alt="Alejandro Pinto">
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
@@ -717,8 +764,8 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 								<!-- Image: End -->
 								<!-- Decription: Start -->
 								<div class="portfolio-desc">
-									<h3>Lucas Cordeiro</h3>
-									<span>Teologia</span>
+									<h3>Alejandro Pinto</h3>
+									<span>BOLIVIA</span>
 								</div>
 								<!-- Description: Start -->
 							</div>
@@ -729,10 +776,7 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
                                     <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
                                         
                                         <div class="fbox-content">
-										<h3>Lucas Cordeiro</h3>
-                                            <span class="subtitle">Participou do Projeto Sonhando Alto 2019. 
-Ao conhecer um pouco mais sobre a colportagem, percebi que, além de ser usado por Deus, poderia realizar grandes sonhos na minha vida. Deixei meu emprego, mesmo com receios, e eu e minha esposa fomos colportar. Hoje afirmo: os planos de Deus são infinitamente maiores que os nossos. Tudo o que precisamos fazer é nos entregar nas mãos Dele e permitir a condução do Seu Santo Espírito. Aos jovens que sonham em fazer uma faculdade e não têm como pagar, meu conselho é que participem do projeto Sonhando Alto. Tenho certeza de que Deus há de derramar bênçãos sem medida para aqueles que se dedicarem a esse trabalho tão importante e necessário nesses dias que antecedem a volta de Jesus.
-</span>
+                                            <span class="subtitle">Participo del proyecto en el año 2020, y hoy en dia esta en su segundo año de Teologia.</span>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
