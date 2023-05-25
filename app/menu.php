@@ -7,8 +7,8 @@
 						<!-- Logo
 						============================================= -->
 						<div id="logo" class="col-auto me-lg-0 order-lg-2" >
-							<a href="index.php" class="standard-logo"><img src="demos/restaurant/images/logo.png" alt="Logo"></a>
-							<a href="index.php" class="retina-logo"><img src="demos/restaurant/images/logo@2x.png" alt="Logo"></a>
+							<a href="index.php" class="standard-logo"><img src="images/logo.png" alt="Logo"></a>
+							<a href="index.php" class="retina-logo"><img src="images/logo@2x.png" alt="Logo"></a>
 						</div><!-- #logo end -->
 
 						<div id="primary-menu-trigger">
