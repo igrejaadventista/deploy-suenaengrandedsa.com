@@ -113,7 +113,7 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
@@ -127,7 +127,7 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/pablo_gularte.jpg.jpg" alt="Pablo Gularte">
+										<img src="images/historias/pablo_gularte.jpg" alt="Pablo Gularte">
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
@@ -158,7 +158,7 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
@@ -171,7 +171,7 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 							<div class="grid-inner">
 								<!-- Image: Start -->
 								<div class="portfolio-image">
-										<img src="images/historias/veronica_laura.jpg.jpg" alt="Veronica Laura">
+										<img src="images/historias/veronica_laura.jpg" alt="Veronica Laura">
 									<!-- Overlay: Start -->
 									<div class="bg-overlay">
 										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
@@ -200,7 +200,7 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
@@ -246,7 +246,7 @@ Soy Tania Paulina Zhunaula Guaman, yo colporté en Ecuador.<br>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
@@ -288,7 +288,7 @@ Soy Tania Paulina Zhunaula Guaman, yo colporté en Ecuador.<br>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
@@ -335,7 +335,7 @@ Soy Tania Paulina Zhunaula Guaman, yo colporté en Ecuador.<br>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
@@ -383,7 +383,7 @@ Soy Erika Magaly Aucancela, yo colporté en Ecuador.<br><br>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
@@ -425,7 +425,7 @@ Soy Erika Magaly Aucancela, yo colporté en Ecuador.<br><br>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
@@ -468,7 +468,7 @@ Soy Erika Magaly Aucancela, yo colporté en Ecuador.<br><br>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
@@ -511,7 +511,7 @@ Soy Erika Magaly Aucancela, yo colporté en Ecuador.<br><br>
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
@@ -558,7 +558,7 @@ Soy Alex Fabian Cambo Quinatoa, yo colporté en Ecuador.
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
@@ -606,7 +606,7 @@ Soy Brayan Duverly Espin Camacho, yo colporté en Ecuador.
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
@@ -654,7 +654,7 @@ Gracias a Dios logró bonificar y hoy se encuentra casado y en la etapa final de
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
@@ -696,7 +696,7 @@ Gracias a Dios logró bonificar y hoy se encuentra casado y en la etapa final de
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
@@ -738,7 +738,7 @@ Gracias a Dios logró bonificar y hoy se encuentra casado y en la etapa final de
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
@@ -780,187 +780,14 @@ Gracias a Dios logró bonificar y hoy se encuentra casado y en la etapa final de
                                         </div>
                                     </div>
                                     <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
+                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
                                     </div>
                                 </div>
                             </div>
                             <!-- Fim Modal -->
 						</article>
 
-						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-formado">
-							<!-- Grid Inner: Start -->
-							<div class="grid-inner">
-								<!-- Image: Start -->
-								<div class="portfolio-image">
-										<img src="images/historias/ana.jpg" alt="Ana">
-									<!-- Overlay: Start -->
-									<div class="bg-overlay">
-										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-											
-											<a href="#myModal_ana" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
-										</div>
-										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-									</div>
-									<!-- Overlay: End -->
-								</div>
-								<!-- Image: End -->
-								<!-- Decription: Start -->
-								<div class="portfolio-desc">
-									<h3>Ana Carolina</h3>
-									<span>Psicologia</span>
-								</div>
-								<!-- Description: Start -->
-							</div>
-							<!-- Grid Inner: End -->
-							<!-- Modal -->
-                            <div class="modal1 mfp-hide" id="myModal_ana">
-                                <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
-                                    <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
-                                        
-                                        <div class="fbox-content">
-										<h3>Ana Carolina</h3>
-                                            <span class="subtitle">Participou do Projeto Sonhando Alto 2008 e se formou em 2013. Minha família não tinha condições financeiras, mas ao ouvir falar da colportagem e do seu potencial em realizar sonhos resolvi arriscar. Estudei e me formei. A colportagem para mim foi a escola da vida e, por meio dela, Deus me mostrou que vale muito a pena sonhar alto!</span>
-                                        </div>
-                                    </div>
-                                    <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Fim Modal -->
-						</article>
-
-						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-estudantes">
-							<!-- Grid Inner: Start -->
-							<div class="grid-inner">
-								<!-- Image: Start -->
-								<div class="portfolio-image">
-										<img src="images/historias/julioe.jpg" alt="Julio">
-									<!-- Overlay: Start -->
-									<div class="bg-overlay">
-										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-											
-											<a href="#myModal_julio" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
-										</div>
-										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-									</div>
-									<!-- Overlay: End -->
-								</div>
-								<!-- Image: End -->
-								<!-- Decription: Start -->
-								<div class="portfolio-desc">
-									<h3>Julio Englerth</h3>
-									<span>Teologia</span>
-								</div>
-								<!-- Description: Start -->
-							</div>
-							<!-- Grid Inner: End -->
-							<!-- Modal -->
-                            <div class="modal1 mfp-hide" id="myModal_julio">
-                                <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
-                                    <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
-                                        
-                                        <div class="fbox-content">
-										<h3>Julio Englerth</h3>
-                                            <span class="subtitle">Participou do Projeto Sonhando Alto 2000. 
-Depois de trabalhar por mais de 10 anos no ramo farmacêutico, eu ainda tinha o sonho de estudar Teologia. Certo dia recebi na igreja uma carta endereçada a jovens que gostassem de estudar em uma das instituições que oferecia o curso de Teologia. Decidi então participar do projeto Sonhando Alto. Tive oposição familiar, principalmente porque precisava trabalhar  em outra cidade. Colportei, estudei e realizei meu sonho. Louvo a Deus por ter me mostrado o caminho do Ministério de Publicações, uma grande escola que capacita, molda o caráter e proporciona a oportunidade de realizar sonhos.
-</span>
-                                        </div>
-                                    </div>
-                                    <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Fim Modal -->
-						</article>
-
-						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-estudantes">
-							<!-- Grid Inner: Start -->
-							<div class="grid-inner">
-								<!-- Image: Start -->
-								<div class="portfolio-image">
-										<img src="images/historias/elvissantos.jpg" alt="Elvis">
-									<!-- Overlay: Start -->
-									<div class="bg-overlay">
-										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-											
-											<a href="#myModal_elvis" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
-										</div>
-										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-									</div>
-									<!-- Overlay: End -->
-								</div>
-								<!-- Image: End -->
-								<!-- Decription: Start -->
-								<div class="portfolio-desc">
-									<h3>Elvis Santos</h3>
-									<span>Teologia</span>
-								</div>
-								<!-- Description: Start -->
-							</div>
-							<!-- Grid Inner: End -->
-							<!-- Modal -->
-                            <div class="modal1 mfp-hide" id="myModal_elvis">
-                                <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
-                                    <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
-                                        
-                                        <div class="fbox-content">
-										<h3>Elvis Santos</h3>
-                                            <span class="subtitle">Participou do Projeto Sonhando Alto 2012. Já completei a décima oitava campanha de colportagem, para a glória de Deus. Fui pra Bahia em 2015, conclui o curso de pedagogia em 2018, em 2019 comecei a cursar teologia.</span>
-                                        </div>
-                                    </div>
-                                    <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Fim Modal -->
-						</article>
-
-
-						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-estudantes">
-							<!-- Grid Inner: Start -->
-							<div class="grid-inner">
-								<!-- Image: Start -->
-								<div class="portfolio-image">
-										<img src="images/historias/rute.jpg" alt="Rute">
-									<!-- Overlay: Start -->
-									<div class="bg-overlay">
-										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-											
-											<a href="#myModal_rute" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
-										</div>
-										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-									</div>
-									<!-- Overlay: End -->
-								</div>
-								<!-- Image: End -->
-								<!-- Decription: Start -->
-								<div class="portfolio-desc">
-									<h3>Rute e Raquel</h3>
-									<span>Direito e Nutrição</span>
-								</div>
-								<!-- Description: Start -->
-							</div>
-							<!-- Grid Inner: End -->
-							<!-- Modal -->
-                            <div class="modal1 mfp-hide" id="myModal_rute">
-                                <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
-                                    <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
-                                        
-                                        <div class="fbox-content">
-										<h3>Rute e Raquel</h3>
-                                            <span class="subtitle">Participaram do Projeto Sonhando Alto 2019.</span>
-                                        </div>
-                                    </div>
-                                    <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Fechar</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Fim Modal -->
-						</article>
+						
 
 					</div><!-- #portfolio end -->
 				<!-- Portfolio Items
@@ -984,7 +811,7 @@ Depois de trabalhar por mais de 10 anos no ramo farmacêutico, eu ainda tinha o 
 			<div class="section m-0 bg-transparent" style="padding: 80px 0 70px;">
 				<div class="container">
 					<div class="mx-auto d-flex justify-content-center center" style="max-width: 900px;">
-						<h3 class="mb-0 ls0">Venha construir o seu futuro...<a href="inscrevase.php" class="button button-circle button-xlarge button-light text-white ls0 nott mt-0 mb-1 ms-3" style="position: relative;"><span>Inscreva-se</span> <i class="icon-line-arrow-right fw-semibold"></i></a></h3>
+						<h3 class="mb-0 ls0">Ven a construir tu futuro...<a href="inscrevase.php" class="button button-circle button-xlarge button-light text-white ls0 nott mt-0 mb-1 ms-3" style="position: relative;"><span>Inscreva-se</span> <i class="icon-line-arrow-right fw-semibold"></i></a></h3>
 				</div>
 			</div>
 
