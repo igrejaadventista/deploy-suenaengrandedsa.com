@@ -28,7 +28,7 @@
 						<nav class="primary-menu col-lg-5 order-lg-3" >
 							<ul class="menu-container justify-content-lg-end">
 								<li class="menu-item"><a class="menu-link <?if ($page == 'universidades.php') {echo "color";}?>" href="universidades.php"><div>Universidades</div></a></li>
-								<li class="menu-item"><a class="menu-link <?if ($page == 'exitos.php') {echo "color";}?>" href="exitos.php"><div>Éxitos</div></a></li>
+								<li class="menu-item"><a class="menu-link <?if ($page == 'exito.php') {echo "color";}?>" href="exito.php"><div>Éxitos</div></a></li>
 								<li class="menu-item"><a class="menu-link <?if ($page == 'suscribirse.php') {echo "color";}?>" href="suscribirse.php"><div>Suscribirse</div></a></li>
 							</ul>
 						</nav><!-- #primary-menu end -->
