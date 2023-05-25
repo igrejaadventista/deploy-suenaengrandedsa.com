@@ -64,7 +64,7 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 						<ul class="grid-filter" data-container="#portfolio">
 							<li class="activeFilter"><a href="#" data-filter="*">Todo</a></li>
 							<li><a href="#" data-filter=".pf-estudantes">Estudiantes</a></li>
-							<li><a href="#" data-filter=".pf-formados">ya graduados</a></li>
+							<li><a href="#" data-filter=".pf-formados">Ya graduados</a></li>
 							
 						</ul><!-- .grid-filter end -->
 
