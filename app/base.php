@@ -8,7 +8,7 @@
 
 					<div class="row justify-content-between col-mb-30">
 						<div class="col-12 col-md-auto text-center text-md-start">
-							<span class="font-primary">&copy; Suena en Grande DSA. 2022. Todos los derechos reservados.</span>
+							<span class="font-primary">&copy; Sueña en Grande. 2022. Todos los derechos reservados.</span>
 						</div>
 
 						<div class="col-12 col-md-auto text-center text-md-end">

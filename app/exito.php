@@ -27,7 +27,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Sonhando Alto - História de Sucesso</title>
+	<title>Sueña en Grande - Historias de Éxito</title>
 
 </head>
 
@@ -45,7 +45,8 @@
 
 			<div class="container clearfix">
                 <img src="images/tit_sucesso.png">
-				<span class="fw-normal">Histórias de quem já deu o PRIMEIRO PASSO<br> e de quem já se FORMOU pelo Sonhando Alto.</span>
+				<span class="fw-normal">Historias de quienes ya han dado el PRIMER PASO<br>
+y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 			</div>
             <div style="position: absolute; bottom: 0; left: 0; width: 100%; z-index: 3; background: url('demos/restaurant/images/sketch2.png') repeat center bottom; background-size: auto 100%; height: 40px; margin-bottom: -10px;"></div>
 		</section><!-- #page-title end -->
@@ -61,9 +62,9 @@
 						<!-- Portfolio Filter
 						============================================= -->
 						<ul class="grid-filter" data-container="#portfolio">
-							<li class="activeFilter"><a href="#" data-filter="*">Todos</a></li>
-							<li><a href="#" data-filter=".pf-estudantes">Estudantes</a></li>
-							<li><a href="#" data-filter=".pf-formados">Já Formados</a></li>
+							<li class="activeFilter"><a href="#" data-filter="*">Todo</a></li>
+							<li><a href="#" data-filter=".pf-estudantes">Estudiantes</a></li>
+							<li><a href="#" data-filter=".pf-formados">ya graduados</a></li>
 							
 						</ul><!-- .grid-filter end -->
 

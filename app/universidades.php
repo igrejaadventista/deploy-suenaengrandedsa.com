@@ -27,7 +27,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Sonhando Alto - Universidades</title>
+	<title>Sueña en Grande - Universidades</title>
 
 </head>
 
@@ -47,7 +47,7 @@
 
 			<div class="container clearfix">
                 <img src="images/tit_universidade.png">
-				<span class="fw-normal">Conheça os possíveis destinos que poderão fazer parte da formação do seu futuro.</span>
+				<span class="fw-normal">Conoce los posibles destinos que podrían ser parte de la formación de tu futuro</span>
 			</div>
             <div style="position: absolute; bottom: 0; left: 0; width: 100%; z-index: 3; background: url('demos/restaurant/images/sketch2.png') repeat center bottom; background-size: auto 100%; height: 40px; margin-bottom: -10px;"></div>
 		</section><!-- #page-title end -->
