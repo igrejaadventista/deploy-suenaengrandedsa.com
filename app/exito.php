@@ -78,47 +78,7 @@ y que ya se GRADUÓ en Sueña en Grande DSA.</span>
 					<div id="portfolio" class="portfolio row grid-container g-0" data-layout="fitRows">
 
 						<!-- Portfolio Item: Start -->
-						<article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-formados">
-							<!-- Grid Inner: Start -->
-							<div class="grid-inner">
-								<!-- Image: Start -->
-								<div class="portfolio-image">
-										<img src="images/historias/jean.jpg" alt="Jean">
-									<!-- Overlay: Start -->
-									<div class="bg-overlay">
-										<div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-											
-											<a href="#myModal_jean" data-lightbox="inline" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"  title="Image"><i class="icon-line-circle-plus"></i></a>
-										</div>
-										<div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-									</div>
-									<!-- Overlay: End -->
-								</div>
-								<!-- Image: End -->
-								<!-- Decription: Start -->
-								<div class="portfolio-desc">
-									<h3>Jean Paulo Ricciardi Fernandes</h3>
-									<span>Medicina EUA</span>
-								</div>
-								<!-- Description: Start -->
-							</div>
-							<!-- Grid Inner: End -->
-							<!-- Modal -->
-                            <div class="modal1 mfp-hide" id="myModal_jean">
-                                <div class="block mx-auto" style="background-color: #FFF; max-width: 500px;">
-                                    <div class="feature-box fbox-center fbox-effect fbox-lg border-bottom-0 mb-0" style="padding: 40px;">
-                                        
-                                        <div class="fbox-content">
-                                            <span class="subtitle">Eu era um menino simples e sonhava em ser médico nos Estados Unidos. Deus usou pessoas para criar o projeto Sonhando Alto. Eu fui guiado por Ele para trabalhar em 13 campanhas de colportagem que me ajudaram a alcançar meu objetivo, e muito mais…Pude estudar, ajudar minha família financeiramente e aprender a ser resiliente. O trabalho que realizei na colportagem me aproximava de Deus e dos outros. Hoje estou me especializando em emergentologia em um dos hospitais mais respeitados dos Estados Unidos (Hospital Universitário da Virgínia). Minha mensagem pra você é: “Seja forte e corajoso”. A colportagem não é fácil, você terá lutas, mas você aproveite cada oportunidade para ser moldado por Deus. </span>
-                                        </div>
-                                    </div>
-                                    <div class="section center m-0" style="padding: 30px;">
-                                        <a href="#" class="button" onClick="$.magnificPopup.close();return false;">Cerrar</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Fim Modal -->
-						</article>
+						
 
 
 
