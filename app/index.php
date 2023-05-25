@@ -74,6 +74,7 @@
 		</section>
 		<!-- Content
 		============================================= -->
+		<? /*
 		<section id="content">
 
 			<div style="position: absolute; top: 0; left: 0; width: 100%; z-index: 3;  background: url('images/shim.jpg') repeat center bottom; background-size: auto 100%;  height: 40px; margin-top: -40px;"></div>
@@ -433,6 +434,7 @@
 
 			<div style="position: absolute; bottom: 0; left: 0; width: 100%; z-index: 3; background: url('demos/restaurant/images/sketch-header.png') repeat center bottom; background-size: auto 100%; height: 40px; margin-bottom: -10px;"></div>
 		</section><!-- #content end -->
+		*/?>
 
 		<? include_once "base.php";?>
 
