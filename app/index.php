@@ -92,7 +92,14 @@
 							<div class="col-lg-6">
 								<div class="feature-box media-box" style="max-width: 890px;">
 									<h3>¡Sueña en Grande!</h3>
-									<p>¿Alguna vez te has parado en una cola de “una milla de largo” en un lugar público o privado durante más de una hora esperando tu turno? Supongo que sí, y eso no es agradable. Sentimientos como la ansiedad, la impaciencia, la inseguridad, el miedo a no hacer ejercicio e incluso el deseo de rendirse se apoderan de estas situaciones. Muchos jóvenes viven como si estuvieran en una línea imaginaria, con el objetivo de cumplir su sueño de hacer una carrera universitaria, pero no pueden cumplir su propósito porque están atrapados en un obstáculo financiero o incluso no supieron reaccionar para ir más allá y enfrentar la barrera. Elena G. de White afirma que: “El éxito en cualquier cosa que emprendamos requiere un objetivo definido. Aquel que quiera alcanzar el verdadero éxito en la vida debe tener firmemente en mente la meta que merece sus esfuerzos. Tal objetivo se presenta ante la juventud de hoy” (Educación, PAGS. 262). Entonces, querido joven, te toca a ti soñar en grande y dar un paso de fe en busca de alcanzar tus metas.
+									<p>¿Alguna vez te has parado en una fila de "más de un kilómetro" en un lugar público o privado durante más de una hora esperando tu turno? 
+										Supongo que sí, y eso no es agradable. Sentimientos como la ansiedad, la impaciencia, la inseguridad, el miedo a no hacer ejercicio e incluso 
+										el deseo de rendirse se apoderan de estas situaciones. Muchos jóvenes viven como si estuvieran en una línea imaginaria, con el objetivo de cumplir 
+										su sueño de hacer una carrera universitaria, pero no pueden cumplir su propósito porque están atrapados en un obstáculo financiero o incluso 
+										no supieron reaccionar para ir más allá y enfrentar la barrera. Elena G. de White afirma que: “El éxito en cualquier cosa que emprendamos 
+										requiere un objetivo definido. Aquel que quiera alcanzar el verdadero éxito en la vida debe tener firmemente en mente la meta que merece 
+										sus esfuerzos. Tal objetivo se presenta ante la juventud de hoy” (Educación, PAGS. 262). Entonces, querido joven, te toca a ti soñar en 
+										grande y dar un paso de fe en busca de alcanzar tus metas.
 </p>
 								</div>
 							</div>
