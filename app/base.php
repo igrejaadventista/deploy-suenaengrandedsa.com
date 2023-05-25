@@ -4,7 +4,7 @@
 			<!-- Copyrights
 			============================================= -->
 			<div id="copyrights" class="bg-transparent pb-4">
-				<div class="container clearfix">
+				<div class="container clearfix"> 
 
 					<div class="row justify-content-between col-mb-30">
 						<div class="col-12 col-md-auto text-center text-md-start">
