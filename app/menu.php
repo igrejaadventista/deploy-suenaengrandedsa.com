@@ -19,17 +19,17 @@
 						============================================= -->
 						<nav class="primary-menu col-lg-4 order-lg-1">
 							<ul class="menu-container">
-								<li class="menu-item"><a class="menu-link <?if ($page == 'index.php') {echo "color";}?>" href="index.php" ><div>O que é</div></a></li>
-								<li class="menu-item"><a class="menu-link <?if ($page == 'historico.php') {echo "color";}?>" href="historico.php"><div>Histórico</div></a></li>
-								<li class="menu-item"><a class="menu-link <?if ($page == 'numeros.php') {echo "color";}?>" href="numeros.php"><div>Números</div></a></li>
+								<li class="menu-item"><a class="menu-link <?if ($page == 'index.php') {echo "color";}?>" href="index.php" ><div>Que es</div></a></li>
+								<li class="menu-item"><a class="menu-link <?if ($page == 'historico.php') {echo "color";}?>" href="historico.php"><div>Historia</div></a></li>
+								<li class="menu-item"><a class="menu-link <?if ($page == 'numeros.php') {echo "color";}?>" href="numeros.php"><div>Numeros</div></a></li>
 							</ul>
 						</nav>
 
 						<nav class="primary-menu col-lg-5 order-lg-3" >
 							<ul class="menu-container justify-content-lg-end">
 								<li class="menu-item"><a class="menu-link <?if ($page == 'universidades.php') {echo "color";}?>" href="universidades.php"><div>Universidades</div></a></li>
-								<li class="menu-item"><a class="menu-link <?if ($page == 'sucesso.php') {echo "color";}?>" href="sucesso.php"><div>Sucessos</div></a></li>
-								<li class="menu-item"><a class="menu-link <?if ($page == 'inscrevase.php') {echo "color";}?>" href="inscrevase.php"><div>Inscreva-se</div></a></li>
+								<li class="menu-item"><a class="menu-link <?if ($page == 'sucesso.php') {echo "color";}?>" href="sucesso.php"><div>Éxitos</div></a></li>
+								<li class="menu-item"><a class="menu-link <?if ($page == 'inscrevase.php') {echo "color";}?>" href="inscrevase.php"><div>Suscribirse</div></a></li>
 							</ul>
 						</nav><!-- #primary-menu end -->
 					</div>
