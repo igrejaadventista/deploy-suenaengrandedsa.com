@@ -2,7 +2,7 @@
 <html dir="ltr" lang="en-US">
 <head>
 
-	<? include_once "meta.php";?>
+	<? include_once "meta.php";?> 
 
 	<!-- Stylesheets
 	============================================= -->
@@ -74,7 +74,7 @@
 		</section>
 		<!-- Content
 		============================================= -->
-		<? /*
+		
 		<section id="content">
 
 			<div style="position: absolute; top: 0; left: 0; width: 100%; z-index: 3;  background: url('images/shim.jpg') repeat center bottom; background-size: auto 100%;  height: 40px; margin-top: -40px;"></div>
@@ -109,7 +109,7 @@
 				<div class="container section-contact clearfix">
 					<div class="row clearfix">
 
-						
+				<? /*		
 
 						<div class="heading-block border-bottom-0 bottommargin-sm">
 							<h2 class="font-secondary color nott" style="font-size: 52px;">¡Acepta la invitación de nuestros líderes!</h2>
@@ -426,7 +426,7 @@
 					</div>
 				</div>
 
-
+			*/?>
 				
 
 			</div>
@@ -434,7 +434,7 @@
 
 			<div style="position: absolute; bottom: 0; left: 0; width: 100%; z-index: 3; background: url('demos/restaurant/images/sketch-header.png') repeat center bottom; background-size: auto 100%; height: 40px; margin-bottom: -10px;"></div>
 		</section><!-- #content end -->
-		*/?>
+		
 
 		<? include_once "base.php";?>
 
