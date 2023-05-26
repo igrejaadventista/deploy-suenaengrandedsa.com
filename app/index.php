@@ -390,7 +390,7 @@
 						
 		
 						</div><!-- .portfolio-carousel end -->
-
+*/?>
 						
 						<div class="col-lg-4 col-md-6 bottommargin-sm center">
 							<i class="i-plain i-xlarge mx-auto mb-0 icon-et-clock"></i>
@@ -433,7 +433,7 @@
 					</div>
 				</div>
 
-			*/?>
+			
 				
 
 			</div>
