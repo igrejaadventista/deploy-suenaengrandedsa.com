@@ -86,7 +86,7 @@
 							</div>
 
 							<div class="heading-block center">
-								<h2>2020</h2>
+								<h2>2019</h2>
 								<span>Celebración de los 20 años del proyecto Sueña en Grande en Brasil.</span>
 							</div>
 

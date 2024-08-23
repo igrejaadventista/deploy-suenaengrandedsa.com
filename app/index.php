@@ -2,7 +2,7 @@
 <html dir="ltr" lang="en-US">
 <head>
 
-	<? include_once "meta.php";?>   
+	<? include_once "meta.php";?> 
 
 	<!-- Stylesheets
 	============================================= -->
@@ -28,7 +28,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Sueña en Grande</title> 
+	<title>Sueña en Grande</title>
 
 </head>
 
