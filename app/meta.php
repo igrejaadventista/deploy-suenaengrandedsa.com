@@ -1,7 +1,6 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Sonhando Alto</title>
 	<!-- Código para Google Authorship e Publisher -->
 	<meta itemprop="description"
 		content="Conheça mais do Programa Sonhando ALTO, que já mudou a vida de milhares de jovens como você. O futuro se faz no presente, se faz a cada dia e se faz com escolhas e atitudes.">
