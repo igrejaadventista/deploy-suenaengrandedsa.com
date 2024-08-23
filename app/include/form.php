@@ -26,74 +26,14 @@ require 'phpmailer/src/SMTP.php';
 
 $uniao = $_POST['template-contactform-estado'];
 
-		switch($uniao)
-		{
-			case 'RS';
-			case 'SC';
-			case 'PR';
-				$emailTo = 'luana.souza@adventistas.org';
-				$nomeTo = 'Luana';
-				break;
-			case 'SP';
-				$emailTo = 'eliane.ane@adventistas.org';
-				$nomeTo = 'Eliane';
-				break;
-			case 'MS';
-			case 'MT';
-			case 'TO';
-			case 'DF';
-				$emailTo = 'adriana.costa@adventistas.org';
-				$nomeTo = 'Adriana';
-				break;
-			case 'RJ';
-			case 'MG';
-			case 'ES';
-				$emailTo = 'aila.lacerda@adventistas.org';
-				$nomeTo = 'Aila';
-				break;
-			case 'BA';
-			case 'SE';
-				$emailTo = 'tatiana.penteado@adventistas.org';
-				$nomeTo = 'Tatiana';
-				break;
-			case 'PI';
-			case 'RN';
-			case 'PB';
-			case 'PE';
-			case 'AL';
-			case 'CE';
-				$emailTo = 'jessica.gomes@adventistas.org';
-				$nomeTo = 'Jessica';
-				break;
-			case 'MA';
-			case 'PA';
-			case 'AP';
-				$emailTo = 'kelly.costa@adventistas.org';
-				$nomeTo = 'Kelly';
-				break;
-			case 'RR';
-			case 'AM';
-			case 'AC';
-			case 'RO';
-				$emailTo = 'julia.lorene@adventistas.org';
-				$nomeTo = 'Julia';
-				break;
-			case 'SS';
-				$emailTo = 'simei@smoler.com.br';
-				$nomeTo = 'simei';
-				break;
-			default;
-				$emailTo = 'simei@smoler.com.br';
-				$nomeTo = 'simei smoler';
-				break;
-		}
+		
 
 
 		$toemails = array();
 
 		$toemails[] = array(
-						'email' => ''.$emailTo.'', // Your Email Address
-						'name' => ''.$nomeTo.'' // Your Name
+						'email' => 'idec.upeu@upeu.edu.pe', // Your Email Address
+						'name' => 'UPEU' // Your Name
 					);
 
 

@@ -402,8 +402,12 @@
 						<div class="col-lg-4 col-md-6 bottommargin-sm center">
 							<i class="i-plain i-xlarge mx-auto mb-0 icon-et-clipboard"></i>
 							<h3 class="text-uppercase font-body" style="font-size: 22px; font-weight: 700;margin-top: 20px">Mais Informações</h3>
-							<span class="font-primary"><strong>Pr. Paulo Pinheiro: </strong>(19) 98216-1125<br>
-							<strong>Pr. Alan: </strong>(75) 99136-2522</span> 
+							<span class="font-primary">
+							<strong>IDEC UPeU: </strong>+51 989.597.367<br> &#127466 &nbsp; &#127464
+							<strong>IDEC UAB: </strong>+591 71.562.691</span>  &#127476 E &#127486
+							<strong>IDEC UAP: </strong>+54 9 2664.008.278</span> &#127479 &nbsp; &#127486
+							<strong>IDEC UNACH: </strong>+56 976.451.914</span> &#127473
+						
 						</div>
 
 						<div class="col-lg-4 col-md-6 bottommargin-sm center">
