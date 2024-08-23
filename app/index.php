@@ -103,7 +103,7 @@
 </p>
 								</div>
 							</div>
-							<div class="col-lg-6" >
+							<div class="col-lg-6" > 
 								<h3>&nbsp;</h3>
 								<iframe width="560" height="315" src="https://www.youtube.com/embed/3l2XM_bPYbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 							</div>
