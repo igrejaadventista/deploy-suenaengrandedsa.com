@@ -405,7 +405,7 @@
 							<span class="font-primary">
 							<strong>IDEC UPeU: </strong>+51 989.597.367 🇵🇪  🇪🇨<br>
 							<strong>IDEC UAB: </strong>+59 171.562.691</span>  🇧🇴  🇵🇾<br>
-							<strong>IDEC UAP: </strong>+54 9 2664.008.278</span> 🇦🇷  🇺🇾<br>
+							<strong>IDEC UAP: </strong>+54 9 2664.008.278</span> 🇦🇷  🇺🇾<br> 
 							<strong>IDEC UNACH: </strong>+56 976.451.914</span> 🇨🇱
 						
 						</div>
