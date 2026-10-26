@@ -1,4 +1,4 @@
-FROM php:8.0-apache
+FROM php:8.4.27-apache
 
 #copia site app folder
 COPY --chown=www-data:www-data app /var/www/html
@@ -40,7 +40,6 @@ RUN sed -i '/#!\/bin\/sh/aecho "$(hostname -i)\t$(hostname) $(hostname).localhos
 # And clean up the image
 
 RUN rm -rf /var/lib/apt/lists/*
-
 
 
 

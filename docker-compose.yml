@@ -1,8 +1,6 @@
-version: "3"
-
 services:
     php-apache:
-        image: php:8.0-apache
+        image: suenaengrandedsa-php:8.4.27
         build: .
         ports:
           - "80:80"
